@@ -1,0 +1,24 @@
+@media(max-width:575px){
+	*{
+		font-size: 16px;
+
+	}
+	.gav{position: static}
+	.bom{
+		padding:0;
+		display: block;
+
+	}
+	#obloka-meow{
+		font-size: 16px;
+		padding:0;
+	}
+	.amogus{
+		width: 95%
+
+	}
+	#TARIFY ol{
+		width: 90%;
+	}
+
+}Стилизовать карточки участников в медиазапросе: растянуть на всю ширину, сделать так, чтобы не стояли в ряд. То же самое можно сделать и с тарифам
